@@ -1,0 +1,2 @@
+# SHRIJI-Responsive
+Responsive website
